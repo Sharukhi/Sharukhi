@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharukhi</h1>
-<h3 align="center">I'm passionate about frontend development</h3>
+<h3 align="center">I'm passionate about Web development</h3>
 
-- 🌱 I’m currently learning **frontend development**
+- 🌱 I’m currently learning **Web development**
 
 - 👨‍💻 All of my projects are available at [https://sharukhi.github.io/](https://sharukhi.github.io/)
 
